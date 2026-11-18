@@ -1,4 +1,4 @@
-# Delta-instacart-purchase-analysis<img width="1280" height="640" alt="WhatsApp Image 2026-11-17 at 3 00 46 PM (3)" src="https://github.com/user-attachments/assets/e292a454-f033-4381-9730-0461db809beb" />
+<img width="1280" height="640" alt="WhatsApp Image 2026-11-17 at 3 00 46 PM (3)" src="https://github.com/user-attachments/assets/e292a454-f033-4381-9730-0461db809beb" />
 
 # 🛒 Análisis de Hábitos de Compra en Instacart
 
