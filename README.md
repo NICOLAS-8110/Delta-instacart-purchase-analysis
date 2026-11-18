@@ -55,11 +55,12 @@ El estudio se desarrolló utilizando una base de datos relacional de Instacart c
 
 ## 📂 Archivos Principales
 * `Delta_instacart_purchase_analysis.ipynb`
-* `instacart_orders.csv`
-* `products.csv`
-* `order_products.csv`
 * `aisles.csv`
 * `departments.csv`
+* `instacart_orders (1).csv`
+* `order_products.7z.001`
+* `order_products.7z.002`
+* `products (1).csv`
 
 ## 🏁 Conclusión
 El análisis de los datos de Instacart permitió trazar una radiografía completa sobre los hábitos de compra de los usuarios tras un proceso riguroso de limpieza y validación. Los resultados confirman que la demanda se concentra en horarios diurnos y al arranque de la semana, con carritos medianos dominados por frutas, verduras y productos frescos de alta recompra. Estos hallazgos ofrecen una base sólida para optimizar la gestión de inventarios, afinar los motores de recomendación y diseñar promociones estratégicas basadas en datos.
